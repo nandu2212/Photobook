@@ -1,0 +1,32 @@
+.nav{
+    height:50px;
+    display:grid;
+    grid-template-columns:90% 2.5%;
+}
+.logo{
+    height:20px;
+    width:120px;
+  
+    margin:15px;
+}
+.cam{
+    height:20px;
+    width:50px;
+    margin-right:50%;
+    margin-top:20px;
+}
+.form{
+    display:flex;
+    flex-direction: column;
+    width: 20vw;
+    margin-left:20vw;
+  
+    padding:10px;
+}
+button{
+    padding:5px;
+    margin-left:28vw;
+    margin-top: 2px;
+    height:25px;
+    width:60px;
+}

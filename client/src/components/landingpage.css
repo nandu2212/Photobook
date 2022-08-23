@@ -1,0 +1,15 @@
+.wrapper{
+    display:flex;
+    justify-content: space-between;
+    height: 80vh;
+    width:60vw;
+    margin:.5vw auto;
+  }
+  h1{
+  align-self: center;
+  }
+ .entry{
+    display:flex;
+    flex-direction:column;
+    margin:20px;
+ }
